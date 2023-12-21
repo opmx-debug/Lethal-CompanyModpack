@@ -1,0 +1,23 @@
+{
+    "name": "Mask Cult Modpack",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/thunderstore-io",
+    "description": "Modpack made for my friends, feel free to use ig",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100",
+        "RickArg-Helmet_Cameras-2.1.5",
+        "RugbugRedfern-Skinwalkers-2.0.1",
+        "x753-Mimics-2.2.1",
+        "tinyhoot-ShipLobby-1.0.2",
+        "2018-LC_API-2.2.0",
+        "bizzlemip-BiggerLobby-2.6.0",
+        "bizzlemip-GokuBracken-1.0.2",
+        "no00ob-LCSoundTool-1.4.0",
+        "Clementinise-CustomSounds-2.1.2",
+        "C4-SalCanDoThisJob-1.1.0",
+        "FlipMods-TooManyEmotes-1.4.9",
+        "CCUUMM-YippeeMod-1.2.1",
+        "INF42-DreamMaskMod-1.0.1",
+
+    ]
+}
